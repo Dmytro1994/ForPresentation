@@ -12,7 +12,6 @@ import java.io.File;
     //first dev commit
     //second dev commit
     //branchforrebase first change
-    //branchforrebase second change
 public class FileWork {
     private static File mediaFile;
     private static File storageMedia;
