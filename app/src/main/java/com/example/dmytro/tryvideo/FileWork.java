@@ -10,7 +10,10 @@ import java.io.File;
  */
 //first master commit
     //first dev commit
+<<<<<<< HEAD
     //second dev commit
+=======
+>>>>>>> 48fedd5... first dev commit
 public class FileWork {
     private static File mediaFile;
     private static File storageMedia;
