@@ -8,6 +8,7 @@ import java.io.File;
 /**
  * Created by Dmytro_Ubogiy on 13.11.2015.
  */
+//first master commit
 public class FileWork {
     private static File mediaFile;
     private static File storageMedia;
