@@ -12,9 +12,12 @@ import java.io.File;
     //first dev commit
     //second dev commit
     //branchforrebase first change
+<<<<<<< HEAD
     //branchforrebase second change
     //fdgsdfg
     //taG2
+=======
+>>>>>>> d528691... branchforrebase first change
 public class FileWork {
     private static File mediaFile;
     private static File storageMedia;
